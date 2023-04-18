@@ -43,21 +43,19 @@
     * Coloque "-1" no final do nome da logo da mesma linguagem que você esteja adiciona;
     * nomeie os arquivos que vão ser adicionados da seguinte maneira:
         * `(nome da linguagem sem abreviações, em caixa alta e com espaços)-(número natural).png`
-  Ex:
-> Antes da alteração.
->>
-  ```bash
-    ├── ...
-    ├── JAVASCRIPT.png
-    ├── ...
-  ```
-> Depois da alteração.
->>
-  ```bash
-    ├── ...
-    ├── JAVASCRIPT-1.png
-    ├── JAVASCRIPT-2.png
-    ├── JAVASCRIPT-3.png
-    ├── ...
-  ```
+>Ex:
+>> Antes da alteração.
+>>```bash
+>>├── ...
+>>├── JAVASCRIPT.png
+>>├── ...
+>>```
+>>Depois da alteração.
+>>```bash
+>>├── ...
+>>├── JAVASCRIPT-1.png
+>>├── JAVASCRIPT-2.png
+>>├── JAVASCRIPT-3.png
+>>├── ...
+>>```
  - - - -
