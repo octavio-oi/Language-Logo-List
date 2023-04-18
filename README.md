@@ -29,16 +29,16 @@
  - - - - 
 ## Contribuição ##
   Se caso queira contribuir com esse repositório, sinta se à vontade, mas siga todos os padrões estabelecidos, atualize a lista de linguagens e respeite a estrutura as pastas descritas abaixo:
-
-  |-- background (nome da cor de fundo em inglês, se tive lidando com alto contraste coloque "high contrast")
-  |   |-- small
-  |   |   └-- (nome da linguagem sem abreviações, em caixa alta e com espaços).png
-  |   |-- middle
-  |   |   └-- (nome da linguagem sem abreviações, em caixa alta e com espaços).png
-  |   └-- large
-  |       └-- (nome da linguagem sem abreviações, em caixa alta e com espaços).png
-  └-- language list.txt
-
+```bash
+  ├── background (nome da cor de fundo em inglês, se tive lidando com alto contraste coloque "high contrast")
+  │   ├── small
+  │   │   └── (nome da linguagem sem abreviações, em caixa alta e com espaços).png
+  │   ├── middle
+  │   │   └── (nome da linguagem sem abreviações, em caixa alta e com espaços).png
+  │   └── large
+  │       └── (nome da linguagem sem abreviações, em caixa alta e com espaços).png
+  └── language list.txt
+```
   Caso, queria adicionar uma outra logo da mesma linguagem:
     * Coloque "-1" no final do nome da logo da mesma linguagem que você esteja adiciona;
     * nomeie os arquivos que vão ser adicionados da seguinte maneira:
@@ -46,14 +46,17 @@
   
   ex:
     > Antes
-    >> |-- ...
-    >> |-- JAVASCRIPT.png
-    >> |-- ...
-
+    ```bash
+      ├── ...
+      ├── JAVASCRIPT.png
+      ├── ...
+    ```
     > Depois
-    >> |-- ...
-    >> |-- JAVASCRIPT-1.png
-    >> |-- JAVASCRIPT-2.png
-    >> |-- JAVASCRIPT-3.png
-    >> |-- ...
+    ```bash
+      ├── ...
+      ├── JAVASCRIPT-1.png
+      ├── JAVASCRIPT-2.png
+      ├── JAVASCRIPT-3.png
+      ├── ...
+    ```
  - - - -
