@@ -1,8 +1,9 @@
 # Language-Logo-List #
-  Esse é um repositório que contem as logos das diversas linguagens (de programação ou não) já padronizadas. :D
+  Esse é um repositório que contem as logos de diversas linguagens (de programação ou não) já padronizadas. :D
  - - - - 
 ## Ressalva ##
   Pretendo no futuro, adiciona uma forma muito melhor do usuário consegui obter as imagens da forma como ele quiser sem ter que baixar o repositório inteiro ou até fica pegando imagem por imagem, mas como ando ocupado (e também procura um emprego :v) irei deixar essa implementação de lado (por enquanto :p).
+  Fique a vontade para usar as imagens, porém ficaria feliz se você credita o repositório. :)
  - - - - 
 ## Padrão das imagens ##
   Todas as imagens tem:
@@ -10,13 +11,12 @@
   * Formato de arquivo: PNG;
   * Qualidade: 100%;
  - - - - 
-## Observações ##
-  1. Algumas das linguagens não possuem uma logo oficial, então coloquei alguma coisa que tem coerência com a linguagem;
+## Observações das coisas que já fiz ##
+  1. Algumas das linguagens não possuem uma logo oficial, então coloquei uma imagem que tem alguma correlação com a linguagem;
   2. Parte das linguagens possui mais de uma logo oficial, entretanto coloque apenas a que achei mais combinava;
-  3. Tem linguagens que nem logo possui, portanto fiquei à vontade em criar uma logo para essas linguagens;
-  4. Fique a vontade para usar as imagens, porém ficaria feliz se você credita o repositório. :)
+  3. Tem linguagens que nem logo possui, portanto fiquei à vontade em criar uma logo para essas linguagens.
  - - - - 
-## Futuras Adições ##
+## Futuras Adições/ideias para o projeto ##
   - [ ] Ter todas as imagens com o fundo preto e o fundo com alto contraste;
   - [ ] Adicionar mais logos de outras linguagens;
   - [ ] Adiciona as outras logos da mesma linguagem;
@@ -27,7 +27,7 @@
   - [ ] Tira todos os serrilhados e pixelizados das imagens
   - [ ] Compressa todas as imagens.
  - - - - 
-## Contribuição ##
+## Como contribuir? ##
   Se caso queira contribuir com esse repositório, sinta se à vontade, mas siga todos os padrões estabelecidos, atualize a lista de linguagens e respeite a estrutura as pastas descritas abaixo:
 ```bash
 ├── background (nome da cor de fundo em inglês, se tive lidando com alto contraste coloque "high contrast")
