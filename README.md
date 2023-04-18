@@ -30,19 +30,20 @@
 ## Contribuição ##
   Se caso queira contribuir com esse repositório, sinta se à vontade, mas siga todos os padrões estabelecidos, atualize a lista de linguagens e respeite a estrutura as pastas descritas abaixo:
 ```bash
-  ├── background (nome da cor de fundo em inglês, se tive lidando com alto contraste coloque "high contrast")
-  │   ├── small
-  │   │   └── (nome da linguagem sem abreviações, em caixa alta e com espaços).png
-  │   ├── middle
-  │   │   └── (nome da linguagem sem abreviações, em caixa alta e com espaços).png
-  │   └── large
-  │       └── (nome da linguagem sem abreviações, em caixa alta e com espaços).png
-  └── language list.txt
+├── background (nome da cor de fundo em inglês, se tive lidando com alto contraste coloque "high contrast")
+│   ├── small
+│   │   └── (nome da linguagem sem abreviações, em caixa alta e com espaços).png
+│   ├── middle
+│   │   └── (nome da linguagem sem abreviações, em caixa alta e com espaços).png
+│   └── large
+│       └── (nome da linguagem sem abreviações, em caixa alta e com espaços).png
+├── ...
+└── language list.txt
 ```
   Caso, queria adicionar uma outra logo da mesma linguagem:
-      * Coloque "-1" no final do nome da logo da mesma linguagem que você esteja adiciona;
-      * nomeie os arquivos que vão ser adicionados da seguinte maneira:
-          * `(nome da linguagem sem abreviações, em caixa alta e com espaços)-(número natural).png`
+  - Coloque "-1" no final do nome da logo da mesma linguagem que você esteja adiciona;
+  - nomeie os arquivos que vão ser adicionados da seguinte maneira:
+      - `(nome da linguagem sem abreviações, em caixa alta e com espaços)-(número natural).png`
 
 >Ex:
 >> Antes da alteração.
