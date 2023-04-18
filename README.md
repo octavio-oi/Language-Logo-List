@@ -40,9 +40,10 @@
   └── language list.txt
 ```
   Caso, queria adicionar uma outra logo da mesma linguagem:
-    * Coloque "-1" no final do nome da logo da mesma linguagem que você esteja adiciona;
-    * nomeie os arquivos que vão ser adicionados da seguinte maneira:
-        * `(nome da linguagem sem abreviações, em caixa alta e com espaços)-(número natural).png`
+      * Coloque "-1" no final do nome da logo da mesma linguagem que você esteja adiciona;
+      * nomeie os arquivos que vão ser adicionados da seguinte maneira:
+          * `(nome da linguagem sem abreviações, em caixa alta e com espaços)-(número natural).png`
+
 >Ex:
 >> Antes da alteração.
 >>```bash
